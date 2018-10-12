@@ -12,11 +12,13 @@ follow this [link](https://hacktoberfest.digitalocean.com/) and register.
 
 ### 2) Fork it 
 
-You can get own fork/copy of this reposity by clocking the fork button ![button](fork_button.png)
+You can get own fork/copy of this reposity by clicking the fork button.
+
+![button](fork_button.png)
 
 ### 3) Add a Program in any langauge you like
 
-Once you have a forked repository; create a folder with the language you want to program. Create a small program around hello world. You can be creative with this and do whatever you like. The more crazy the better!!!!
+Once you have a forked repository; create a folder with the name of the program. If one doesn't exist then create the folder. Create a small program around hello world. You can be creative with this and do whatever you like. The more crazy the better!!!!
 
 ### 3) Create a PR
 
